@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">InClass10</string>
+    <string name="Email">Email</string>
+    <string name="Password">Password</string>
+    <string name="Login">Login</string>
+    <string name="signUp">Sign Up</string>
+    <string name="LOGIN_PREF_FILE">LOGIN PREF FILE</string>
+    <string name="fName">First Name</string>
+    <string name="lName">Last Name</string>
+    <string name="ChoosePwd">Choose password</string>
+    <string name="RepeatPwd">Repeat password</string>
+    <string name="Cancel">Cancel</string>
+    <string name="addNewThread">Add New Thread</string>
+    <string name="deleteThread">Delete Thread</string>
+    <string name="logout">Log Out</string>
+    <string name="home">ThreadsActivity</string>
+    <string name="send">Send</string>
+    <string name="deleteMessage">Delete Message</string>
+    <string name="type">Type message to send</string>
+    <string name="currentThreads">Current Threads</string>
+</resources>

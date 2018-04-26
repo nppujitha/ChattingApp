@@ -1,0 +1,138 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/nagapoornapujithaperakalapudi/Desktop/MAD codes/ChattingApp/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /Users/nagapoornapujithaperakalapudi/Desktop/MAD codes/ChattingApp/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /Users/nagapoornapujithaperakalapudi/Desktop/MAD codes/ChattingApp/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /Users/nagapoornapujithaperakalapudi/Desktop/MAD codes/ChattingApp/app/src/main/AndroidManifest.xml:2:1-27:12
+MERGED from [com.android.support:design:27.1.0] /Users/nagapoornapujithaperakalapudi/.gradle/caches/transforms-1/files-1.1/design-27.1.0.aar/0cc84a3157c6accad699adeb1d313bc3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.0] /Users/nagapoornapujithaperakalapudi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/8827e1e6bb26ff7ef15b3d61bf0ca555/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/nagapoornapujithaperakalapudi/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/f28a8c90ddcb6d8a53fb05e19a8945c2/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v4:27.1.0] /Users/nagapoornapujithaperakalapudi/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.0.aar/406fbbb711fd99f20a88899444f8d4f4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.0] /Users/nagapoornapujithaperakalapudi/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.0.aar/10219d0754234f5bbb689add33ab5669/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.0] /Users/nagapoornapujithaperakalapudi/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.0.aar/b31375c315f9eb1c5a9ceaf97d8cb86c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.0] /Users/nagapoornapujithaperakalapudi/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.0.aar/bd16e2f18e91a997a807d60eba489b3a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.0] /Users/nagapoornapujithaperakalapudi/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.0.aar/e92a8e51ec311e672d265d29a8e5762f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.0] /Users/nagapoornapujithaperakalapudi/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.0.aar/b93c6fa2d975d0f5d79c41d520950cf2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.0] /Users/nagapoornapujithaperakalapudi/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.0.aar/0e08ca45cc3970a374fbf5bbf0156527/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.0] /Users/nagapoornapujithaperakalapudi/.gradle/caches/transforms-1/files-1.1/transition-27.1.0.aar/debe0bbdb515467150f4e715db747978/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.0] /Users/nagapoornapujithaperakalapudi/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.0.aar/42c0e1cea5b5154c581158381b0067b6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.0] /Users/nagapoornapujithaperakalapudi/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.0.aar/c6deb0657a16c054b029088ae7891f1b/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/nagapoornapujithaperakalapudi/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/df8613fb879efa78ecc205528bb38323/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/nagapoornapujithaperakalapudi/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/30689c6bd492cca5f59d649cd0ba02c5/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/nagapoornapujithaperakalapudi/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/0c7b493f7ac2d1d1996e20c44a1e812f/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /Users/nagapoornapujithaperakalapudi/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/e9093b6d2cbd44255ac70ee091a154ad/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/nagapoornapujithaperakalapudi/Desktop/MAD codes/ChattingApp/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /Users/nagapoornapujithaperakalapudi/Desktop/MAD codes/ChattingApp/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /Users/nagapoornapujithaperakalapudi/Desktop/MAD codes/ChattingApp/app/src/main/AndroidManifest.xml:2:1-27:12
+	package
+		ADDED from /Users/nagapoornapujithaperakalapudi/Desktop/MAD codes/ChattingApp/app/src/main/AndroidManifest.xml:3:5-48
+		INJECTED from /Users/nagapoornapujithaperakalapudi/Desktop/MAD codes/ChattingApp/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/nagapoornapujithaperakalapudi/Desktop/MAD codes/ChattingApp/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/nagapoornapujithaperakalapudi/Desktop/MAD codes/ChattingApp/app/src/main/AndroidManifest.xml
+		ADDED from /Users/nagapoornapujithaperakalapudi/Desktop/MAD codes/ChattingApp/app/src/main/AndroidManifest.xml:2:1-27:12
+		INJECTED from /Users/nagapoornapujithaperakalapudi/Desktop/MAD codes/ChattingApp/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/nagapoornapujithaperakalapudi/Desktop/MAD codes/ChattingApp/app/src/main/AndroidManifest.xml
+		ADDED from /Users/nagapoornapujithaperakalapudi/Desktop/MAD codes/ChattingApp/app/src/main/AndroidManifest.xml:2:1-27:12
+		INJECTED from /Users/nagapoornapujithaperakalapudi/Desktop/MAD codes/ChattingApp/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/nagapoornapujithaperakalapudi/Desktop/MAD codes/ChattingApp/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/nagapoornapujithaperakalapudi/Desktop/MAD codes/ChattingApp/app/src/main/AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from /Users/nagapoornapujithaperakalapudi/Desktop/MAD codes/ChattingApp/app/src/main/AndroidManifest.xml:5:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/nagapoornapujithaperakalapudi/Desktop/MAD codes/ChattingApp/app/src/main/AndroidManifest.xml:6:5-79
+	android:name
+		ADDED from /Users/nagapoornapujithaperakalapudi/Desktop/MAD codes/ChattingApp/app/src/main/AndroidManifest.xml:6:22-76
+application
+ADDED from /Users/nagapoornapujithaperakalapudi/Desktop/MAD codes/ChattingApp/app/src/main/AndroidManifest.xml:8:5-25:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/nagapoornapujithaperakalapudi/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/f28a8c90ddcb6d8a53fb05e19a8945c2/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/nagapoornapujithaperakalapudi/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/f28a8c90ddcb6d8a53fb05e19a8945c2/AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from /Users/nagapoornapujithaperakalapudi/Desktop/MAD codes/ChattingApp/app/src/main/AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from /Users/nagapoornapujithaperakalapudi/Desktop/MAD codes/ChattingApp/app/src/main/AndroidManifest.xml:11:9-41
+	android:roundIcon
+		ADDED from /Users/nagapoornapujithaperakalapudi/Desktop/MAD codes/ChattingApp/app/src/main/AndroidManifest.xml:12:9-54
+	android:icon
+		ADDED from /Users/nagapoornapujithaperakalapudi/Desktop/MAD codes/ChattingApp/app/src/main/AndroidManifest.xml:10:9-43
+	android:allowBackup
+		ADDED from /Users/nagapoornapujithaperakalapudi/Desktop/MAD codes/ChattingApp/app/src/main/AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from /Users/nagapoornapujithaperakalapudi/Desktop/MAD codes/ChattingApp/app/src/main/AndroidManifest.xml:14:9-40
+activity#com.example.messaging.chattingapp.MainActivity
+ADDED from /Users/nagapoornapujithaperakalapudi/Desktop/MAD codes/ChattingApp/app/src/main/AndroidManifest.xml:15:9-21:20
+	android:name
+		ADDED from /Users/nagapoornapujithaperakalapudi/Desktop/MAD codes/ChattingApp/app/src/main/AndroidManifest.xml:15:19-80
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/nagapoornapujithaperakalapudi/Desktop/MAD codes/ChattingApp/app/src/main/AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from /Users/nagapoornapujithaperakalapudi/Desktop/MAD codes/ChattingApp/app/src/main/AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from /Users/nagapoornapujithaperakalapudi/Desktop/MAD codes/ChattingApp/app/src/main/AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/nagapoornapujithaperakalapudi/Desktop/MAD codes/ChattingApp/app/src/main/AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from /Users/nagapoornapujithaperakalapudi/Desktop/MAD codes/ChattingApp/app/src/main/AndroidManifest.xml:19:27-74
+activity#com.example.messaging.chattingapp.ThreadActivity
+ADDED from /Users/nagapoornapujithaperakalapudi/Desktop/MAD codes/ChattingApp/app/src/main/AndroidManifest.xml:22:9-85
+	android:name
+		ADDED from /Users/nagapoornapujithaperakalapudi/Desktop/MAD codes/ChattingApp/app/src/main/AndroidManifest.xml:22:19-82
+activity#com.example.messaging.chattingapp.Signup
+ADDED from /Users/nagapoornapujithaperakalapudi/Desktop/MAD codes/ChattingApp/app/src/main/AndroidManifest.xml:23:9-77
+	android:name
+		ADDED from /Users/nagapoornapujithaperakalapudi/Desktop/MAD codes/ChattingApp/app/src/main/AndroidManifest.xml:23:19-74
+activity#com.example.messaging.chattingapp.ChattingActivity
+ADDED from /Users/nagapoornapujithaperakalapudi/Desktop/MAD codes/ChattingApp/app/src/main/AndroidManifest.xml:24:9-96
+	android:name
+		ADDED from /Users/nagapoornapujithaperakalapudi/Desktop/MAD codes/ChattingApp/app/src/main/AndroidManifest.xml:24:19-84
+uses-sdk
+INJECTED from /Users/nagapoornapujithaperakalapudi/Desktop/MAD codes/ChattingApp/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/nagapoornapujithaperakalapudi/Desktop/MAD codes/ChattingApp/app/src/main/AndroidManifest.xml
+INJECTED from /Users/nagapoornapujithaperakalapudi/Desktop/MAD codes/ChattingApp/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:27.1.0] /Users/nagapoornapujithaperakalapudi/.gradle/caches/transforms-1/files-1.1/design-27.1.0.aar/0cc84a3157c6accad699adeb1d313bc3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.0] /Users/nagapoornapujithaperakalapudi/.gradle/caches/transforms-1/files-1.1/design-27.1.0.aar/0cc84a3157c6accad699adeb1d313bc3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.0] /Users/nagapoornapujithaperakalapudi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/8827e1e6bb26ff7ef15b3d61bf0ca555/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.0] /Users/nagapoornapujithaperakalapudi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/8827e1e6bb26ff7ef15b3d61bf0ca555/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/nagapoornapujithaperakalapudi/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/f28a8c90ddcb6d8a53fb05e19a8945c2/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/nagapoornapujithaperakalapudi/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/f28a8c90ddcb6d8a53fb05e19a8945c2/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:27.1.0] /Users/nagapoornapujithaperakalapudi/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.0.aar/406fbbb711fd99f20a88899444f8d4f4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.0] /Users/nagapoornapujithaperakalapudi/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.0.aar/406fbbb711fd99f20a88899444f8d4f4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.0] /Users/nagapoornapujithaperakalapudi/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.0.aar/10219d0754234f5bbb689add33ab5669/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.0] /Users/nagapoornapujithaperakalapudi/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.0.aar/10219d0754234f5bbb689add33ab5669/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.0] /Users/nagapoornapujithaperakalapudi/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.0.aar/b31375c315f9eb1c5a9ceaf97d8cb86c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.0] /Users/nagapoornapujithaperakalapudi/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.0.aar/b31375c315f9eb1c5a9ceaf97d8cb86c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.0] /Users/nagapoornapujithaperakalapudi/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.0.aar/bd16e2f18e91a997a807d60eba489b3a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.0] /Users/nagapoornapujithaperakalapudi/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.0.aar/bd16e2f18e91a997a807d60eba489b3a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.0] /Users/nagapoornapujithaperakalapudi/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.0.aar/e92a8e51ec311e672d265d29a8e5762f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.0] /Users/nagapoornapujithaperakalapudi/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.0.aar/e92a8e51ec311e672d265d29a8e5762f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.0] /Users/nagapoornapujithaperakalapudi/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.0.aar/b93c6fa2d975d0f5d79c41d520950cf2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.0] /Users/nagapoornapujithaperakalapudi/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.0.aar/b93c6fa2d975d0f5d79c41d520950cf2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.0] /Users/nagapoornapujithaperakalapudi/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.0.aar/0e08ca45cc3970a374fbf5bbf0156527/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.0] /Users/nagapoornapujithaperakalapudi/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.0.aar/0e08ca45cc3970a374fbf5bbf0156527/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.0] /Users/nagapoornapujithaperakalapudi/.gradle/caches/transforms-1/files-1.1/transition-27.1.0.aar/debe0bbdb515467150f4e715db747978/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.0] /Users/nagapoornapujithaperakalapudi/.gradle/caches/transforms-1/files-1.1/transition-27.1.0.aar/debe0bbdb515467150f4e715db747978/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.0] /Users/nagapoornapujithaperakalapudi/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.0.aar/42c0e1cea5b5154c581158381b0067b6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.0] /Users/nagapoornapujithaperakalapudi/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.0.aar/42c0e1cea5b5154c581158381b0067b6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.0] /Users/nagapoornapujithaperakalapudi/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.0.aar/c6deb0657a16c054b029088ae7891f1b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.0] /Users/nagapoornapujithaperakalapudi/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.0.aar/c6deb0657a16c054b029088ae7891f1b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/nagapoornapujithaperakalapudi/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/df8613fb879efa78ecc205528bb38323/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/nagapoornapujithaperakalapudi/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/df8613fb879efa78ecc205528bb38323/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/nagapoornapujithaperakalapudi/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/30689c6bd492cca5f59d649cd0ba02c5/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/nagapoornapujithaperakalapudi/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/30689c6bd492cca5f59d649cd0ba02c5/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/nagapoornapujithaperakalapudi/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/0c7b493f7ac2d1d1996e20c44a1e812f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/nagapoornapujithaperakalapudi/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/0c7b493f7ac2d1d1996e20c44a1e812f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/nagapoornapujithaperakalapudi/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/e9093b6d2cbd44255ac70ee091a154ad/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/nagapoornapujithaperakalapudi/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/e9093b6d2cbd44255ac70ee091a154ad/AndroidManifest.xml:20:5-44
+INJECTED from /Users/nagapoornapujithaperakalapudi/Desktop/MAD codes/ChattingApp/app/src/main/AndroidManifest.xml
+INJECTED from /Users/nagapoornapujithaperakalapudi/Desktop/MAD codes/ChattingApp/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/nagapoornapujithaperakalapudi/Desktop/MAD codes/ChattingApp/app/src/main/AndroidManifest.xml
+		ADDED from /Users/nagapoornapujithaperakalapudi/Desktop/MAD codes/ChattingApp/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/nagapoornapujithaperakalapudi/Desktop/MAD codes/ChattingApp/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/nagapoornapujithaperakalapudi/Desktop/MAD codes/ChattingApp/app/src/main/AndroidManifest.xml
+		ADDED from /Users/nagapoornapujithaperakalapudi/Desktop/MAD codes/ChattingApp/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/nagapoornapujithaperakalapudi/Desktop/MAD codes/ChattingApp/app/src/main/AndroidManifest.xml

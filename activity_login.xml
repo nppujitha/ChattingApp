@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/loginView"
+    tools:context=".MainActivity"
+    android:background="@drawable/background_welcome_min">
+
+    <EditText
+        android:id="@+id/emailET"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="78dp"
+        android:ems="10"
+        android:inputType="textEmailAddress"
+        android:hint="@string/Email"
+        android:text="" />
+
+    <EditText
+        android:id="@+id/pwdET"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="168dp"
+        android:ems="10"
+        android:inputType="textPassword"
+        android:hint="@string/Password"
+        android:text="" />
+
+    <Button
+        android:id="@+id/loginButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignStart="@+id/emailET"
+        android:layout_alignLeft="@+id/emailET"
+        android:layout_marginBottom="220dp"
+        android:text="@string/Login" />
+
+    <Button
+        android:id="@+id/signUpButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignTop="@+id/loginButton"
+        android:layout_marginEnd="91dp"
+        android:layout_marginRight="91dp"
+        android:text="@string/signUp" />
+</RelativeLayout>

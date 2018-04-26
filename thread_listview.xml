@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/threadlistview_shape"
+    android:descendantFocusability="blocksDescendants">
+
+    <TextView
+        android:id="@+id/threadTitleTV"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="28dp"
+        android:layout_marginStart="28dp"
+        android:layout_marginTop="15dp"
+        android:layout_toLeftOf="@+id/deleteThreadButton"
+        android:layout_toStartOf="@+id/deleteThreadButton"
+        android:text="" />
+
+    <ImageButton
+        android:id="@+id/deleteThreadButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginEnd="24dp"
+        android:layout_marginRight="24dp"
+        android:contentDescription="@string/deleteThread"
+        android:background="@drawable/oval_shape"
+        app:srcCompat="@android:drawable/ic_delete" />
+</RelativeLayout>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ChattingActivity"
+    android:background="@drawable/background_login_min">
+
+    <TextView
+        android:id="@+id/threadNameTV"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="23dp"
+        android:layout_marginStart="23dp"
+        android:layout_marginTop="13dp"
+        android:layout_toLeftOf="@+id/homeButton"
+        android:layout_toStartOf="@+id/homeButton"
+        android:textStyle="bold"
+        android:textSize="20sp"
+        android:text="" />
+
+    <ImageButton
+        android:id="@+id/homeButton"
+        android:layout_width="40dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginEnd="15dp"
+        android:layout_marginRight="15dp"
+        android:background="?attr/selectableItemBackgroundBorderless"
+        android:adjustViewBounds="true"
+        android:contentDescription="@string/home"
+        android:padding="0dp"
+        android:scaleType="fitCenter"
+        app:srcCompat="@drawable/home" />
+
+    <EditText
+        android:id="@+id/newMessageET"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignStart="@+id/threadNameTV"
+        android:layout_alignLeft="@+id/threadNameTV"
+        android:layout_marginBottom="11dp"
+        android:layout_toLeftOf="@+id/sendButton"
+        android:layout_toStartOf="@+id/sendButton"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:hint="@string/type"
+        android:background="@drawable/edittext_style"
+        android:text="" />
+
+    <ImageButton
+        android:id="@+id/sendButton"
+        android:layout_width="30dp"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/newMessageET"
+        android:layout_alignEnd="@+id/homeButton"
+        android:layout_alignRight="@+id/homeButton"
+        android:background="?attr/selectableItemBackgroundBorderless"
+        android:adjustViewBounds="true"
+        android:contentDescription="@string/send"
+        android:padding="0dp"
+        android:scaleType="fitCenter"
+        app:srcCompat="@drawable/send1"/>
+
+    <ListView
+        android:id="@+id/messagesLV"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@+id/sendButton"
+        android:layout_alignEnd="@+id/sendButton"
+        android:layout_alignRight="@+id/sendButton"
+        android:divider="@android:color/transparent"
+        android:dividerHeight="5dp" />
+
+</RelativeLayout>

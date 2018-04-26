@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ThreadActivity"
+   >
+
+    <ImageButton
+        android:id="@+id/logOutButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginEnd="15dp"
+        android:layout_marginRight="15dp"
+        android:layout_marginTop="13dp"
+        android:contentDescription="@string/logout"
+        android:background="?attr/selectableItemBackgroundBorderless"
+        app:srcCompat="@android:drawable/ic_lock_power_off" />
+
+    <TextView
+        android:id="@+id/userNameTV"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignTop="@+id/logOutButton"
+        android:layout_marginStart="12dp"
+        android:layout_marginLeft="12dp"
+        android:layout_toLeftOf="@+id/logOutButton"
+        android:layout_toStartOf="@+id/logOutButton"
+        android:textStyle="bold"
+        android:textSize="20sp"
+        android:text="" />
+
+    <EditText
+        android:id="@+id/newThreadET"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentLeft="true"
+        android:layout_marginStart="22dp"
+        android:layout_marginLeft="22dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginEnd="10dp"
+        android:layout_toStartOf="@+id/addThreadButton"
+        android:layout_toLeftOf="@+id/addThreadButton"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:hint="@string/addNewThread"
+        android:text="" />
+
+    <ImageButton
+        android:id="@+id/addThreadButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignEnd="@+id/logOutButton"
+        android:layout_alignParentBottom="true"
+        android:layout_alignRight="@+id/logOutButton"
+        android:background="@android:drawable/presence_busy"
+        android:contentDescription="@string/addNewThread"
+        app:srcCompat="@android:drawable/ic_input_add" />
+
+    <TextView
+        android:id="@+id/threadListTV"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignStart="@+id/userNameTV"
+        android:layout_alignLeft="@+id/userNameTV"
+        android:layout_below="@+id/logOutButton"
+        android:textStyle="normal"
+        android:textSize="15sp"
+        android:text="@string/currentThreads" />
+
+    <ListView
+        android:id="@+id/threadItemsLV"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignLeft="@+id/threadListTV"
+        android:layout_alignParentTop="true"
+        android:layout_alignStart="@+id/threadListTV"
+        android:layout_marginBottom="50dp"
+        android:layout_marginEnd="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="65dp" />
+</RelativeLayout>
+
+<!-- android:background="@drawable/oval_shape"-->
